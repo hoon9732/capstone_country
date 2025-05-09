@@ -20,3 +20,4 @@ Nominatim/
 # ignore google landmark dataset
 assets/data/
 assets/imgs/google-landmark/
+resources/**/models/*.ckpt
